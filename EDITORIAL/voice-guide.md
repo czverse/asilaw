@@ -84,3 +84,6 @@ Run `python3 EDITORIAL/vcheck.py N` on every chapter before publishing. Dialogue
 3. Keep chapter titles, part markers, system notifications and Stele letters (formats in `style-guide.md`).
 4. Length may change by ±15%.
 5. Check with `EDITORIAL/vcheck.py`, then publish in batches of about ten chapters with a note in the commit.
+
+## Notes on voice development
+- **Seed** speaks without contractions in Books 1–2 ("I do not know"). From Book 3 on it uses them ("I don't know"), as part of its growth from v1.x. Keep its literal-mindedness and its counting.
